@@ -1,0 +1,13 @@
+{
+  "entity_name": "CaliView Builder",
+  "location_id": 1,
+  "location_name": "North Hollywood HQ",
+  "address_street": "6692 Ampere Ave",
+  "address_city": "North Hollywood",
+  "address_state": "CA",
+  "address_postal_code": 91606,
+  "phone": "(323) 484-8458",
+  "hours": "Mon-Thu 9:00 AM - 5:00 PM, Fri 9:00 AM - 3:00 PM, Sat Closed, Sun By Appointment",
+  "geo_latitude": 34.1691,
+  "geo_longitude": -118.38
+}

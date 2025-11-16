@@ -1,0 +1,11 @@
+{
+  "entity_name": "CaliView Builder",
+  "product_id": "General Contracting",
+  "name": "General Contracting",
+  "short_description": "Full-service construction and remodeling",
+  "description": "Comprehensive general contracting specializing in new builds, remodeling, ADUs, and commercial projects",
+  "features": "Custom home building, remodeling, ADUs, commercial projects",
+  "sku": "GC001",
+  "brand": "CaliView Builder",
+  "offers_price_currency": "USD"
+}

@@ -1,0 +1,11 @@
+{
+  "entity_name": "CaliView Builder",
+  "product_id": "Kitchen & Bathroom Remodel",
+  "name": "Kitchen & Bathroom Remodel",
+  "short_description": "Kitchen and bathroom renovation",
+  "description": "Complete kitchen and bathroom remodels with premium finishes and efficient project management",
+  "features": "Custom cabinets, plumbing, tiling, fixtures",
+  "sku": "KBR002",
+  "brand": "CaliView Builder",
+  "offers_price_currency": "USD"
+}

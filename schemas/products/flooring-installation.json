@@ -1,0 +1,11 @@
+{
+  "entity_name": "CaliView Builder",
+  "product_id": "Flooring Installation",
+  "name": "Flooring Installation",
+  "short_description": "Installation of various flooring types",
+  "description": "Hardwood, tile, laminate, and carpet flooring installation services",
+  "features": "Material selection, professional installation",
+  "sku": "FI010",
+  "brand": "CaliView Builder",
+  "offers_price_currency": "USD"
+}
